@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/tmp/airowp.html",
+      "destination": "https://gd.nealey.pro/landing/airowp.html",
+      "permanent": true
+    }
+  ]
+}
